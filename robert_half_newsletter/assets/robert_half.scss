@@ -1,0 +1,140 @@
+.header-row {
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  border-bottom: 1px solid #DAD9D7;
+  
+  .columns {
+    vertical-align: middle;
+    img {
+      padding-left: 20px;
+      width: 210px;
+    }
+
+    
+    p {   
+      font-size: 11px;
+      padding-right: 20px;
+      margin-bottom: 0;
+      a {
+        color: #9f1c35;
+      }
+    }
+    span {
+      padding: 0 5px;
+      color: #351b1b;
+      
+    }
+    
+  }
+}
+
+.negotiate-content-row {
+  h4 {
+    font-size: 14px;
+    color: #382e2c;
+  }
+  h2 {
+    text-decoration: underline;
+    font-size: 24px;
+    a {
+      color: #9f1c35;
+    }
+  }
+  p {
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;    color: #333333;
+    font-size: 13px;
+    margin: 0 35px;
+    line-height: 145%;
+
+  }
+  button {
+    font-weight: 100;
+  }
+}
+
+.jobs-content-row {
+  h4 {
+    font-size: 14px;
+    color: #382e2c;
+  }
+  h2 {
+    text-decoration: underline;
+    font-size: 24px;
+    a {
+      color: #9f1c35;
+
+    }
+  }
+  p {
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;    color: #333333;
+    font-size: 13px;
+    width: 85%;
+    margin: 0 auto;
+    line-height: 145%;
+
+  }
+  button {
+    font-weight: 100;
+  }
+}
+
+.tips-content-row {
+  h4 {
+    font-size: 14px;
+    color: #382e2c;
+  }
+  h2 {
+    text-decoration: underline;
+    font-size: 24px;
+    a {
+      color: #9f1c35;
+
+    }
+  }
+  p {
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;    color: #333333;
+    font-size: 13px;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 145%;
+  }
+  button {
+    font-weight: 100;
+  }
+}
+
+.footer-top {
+  background: #4A555C;
+  background-color: #4A555C;
+  .social-icons {
+    display: inline-block;
+    width: 30px;
+    padding-right: 20px;
+    padding-top: 25px;
+    padding-bottom: 35px;
+  }
+  .footer-quote {
+    display: block;
+    width: 50%;
+    padding-bottom: 20px;
+  }
+}
+
+.footer-bottom {
+  padding: 20px 0;
+  p{
+    font-size: 10px;
+    color: #999999;
+    line-height: 150%;
+    padding-left: 25px;
+    .website {
+      color: #9f1c35 !important;
+      text-decoration: underline;
+  
+  }
+  
+  }
+  .unsubscribe {
+    color: #9f1c35;
+    text-decoration: underline;
+  }
+}
